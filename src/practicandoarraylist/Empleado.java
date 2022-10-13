@@ -1,15 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package practicandoarraylist;
 
 import java.util.Objects;
 
-/**
- *
- * @author Alumno Mañana
- */
+
 public class Empleado {
     private String dni;
     private String nomEmpleado;
